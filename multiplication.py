@@ -1,0 +1,1 @@
+print("multiplication:",2 * 2)
